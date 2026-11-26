@@ -31,5 +31,5 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@://github.com"
           git config --local user.name "github-actions[bot]"
-          git add sdir_lasteskip_under_8m.xml sdir_seen_items.json
+          git add sdir_lasteskip_under_8m.xml sdir_page_state.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feed" && git push)
