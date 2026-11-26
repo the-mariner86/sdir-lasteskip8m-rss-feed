@@ -1,108 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Lasteskip under 8 meter - Sjøfartsdirektoratet</title>
+    <title>Endringsvarsel: Lasteskip under 8 meter (Sdir)</title>
     <link>https://www.sdir.no/naringsfartoy/fartoystyper/lasteskip/lasteskip-med-storste-lengde-under-15-meter/lasteskip-under-8-meter/</link>
-    <description>Krav og regelverk som gjelder for lasteskip med største lengde under 8 meter.</description>
+    <description>Varsler om endringer i brødtekst og regelverk for lasteskip under 8 meter hos Sjøfartsdirektoratet.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Nov 2026 08:48:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:00:29 +0000</lastBuildDate>
     <item>
-      <title>Forskrift 16. juni 1987 nr. 507 om sikkerhetstiltak m.m. på lasteskip og lektere</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/1987-06-15-507</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/1987-06-15-507</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 30. mai 2012 nr. 488 om miljømessig sikkerhet for skip og flyttbare innretninger</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/2012-05-30-488?q=milj%C3%B8messig%20sikkerhet</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/2012-05-30-488?q=milj%C3%B8messig%20sikkerhet</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 1. juli 2014 om farlig last på norske skip</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/2014-07-01-944</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/2014-07-01-944</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 9. mars 2001 nr. 439 om skipsmedisin</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/2001-03-09-439</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/2001-03-09-439</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 1. januar 2005 nr. 8 om arbeidsmiljø, sikkerhet og helse for de som har sitt arbeid om bord på skip</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/2005-01-01-8/*#&amp;#x2a;</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/2005-01-01-8/*#&amp;#x2a;</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 16. desember 2016 nr. 1770 om sikkerhetsstyring for mindre lasteskip, passasjerskip og fiskefartøy mv.</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/2016-12-16-1770?q=sikkerhetsstyring%20for%20mindre%20lasteskip</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/2016-12-16-1770?q=sikkerhetsstyring%20for%20mindre%20lasteskip</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 26. juni 2007 nr. 705 om arbeids- og hviletid på norske passasjer- og lasteskip mv.</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/2007-06-26-705?q=arbeids%20og%20hviletid</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/2007-06-26-705?q=arbeids%20og%20hviletid</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 27. april 1999 nr. 537 om vakthold på passasjer- og lasteskip</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/1999-04-27-537</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/1999-04-27-537</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 22. desember 2011 nr. 1523 om kvalifikasjoner og sertifikater for sjøfolk</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/2011-12-22-1523</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/2011-12-22-1523</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 30. august 2016 nr. 1042 om skipsutstyr</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/2016-08-30-1042</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/2016-08-30-1042</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nordisk Båt Standard for Materialer og Komponenter for båter under 15 meter 1990</title>
-      <link>https://www.sdir.no/contentassets/c946b0426dc14ea480c17b64098fae53/nordisk-batstandard-for-materialer-og-komponenter_1990.pdf</link>
-      <guid isPermaLink="false">https://www.sdir.no/contentassets/c946b0426dc14ea480c17b64098fae53/nordisk-batstandard-for-materialer-og-komponenter_1990.pdf</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nordisk Båt Standard for Yrkesbåter under 15 meter 1990</title>
-      <link>https://www.sdir.no/contentassets/c946b0426dc14ea480c17b64098fae53/nordisk-batstandard-for-yrkesbater-under-15-meter.pdf</link>
-      <guid isPermaLink="false">https://www.sdir.no/contentassets/c946b0426dc14ea480c17b64098fae53/nordisk-batstandard-for-yrkesbater-under-15-meter.pdf</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RSV 14-2022 - Alternativ til rattmerket kartmaskin for lasteskip med største lengde (L) under 24 meter</title>
-      <link>https://www.sdir.no/regelverk/rundskriv/alternativ-til-rattmerket-kartmaskin-for-lasteskip-med-storste-lenge-l-under-24-meter/</link>
-      <guid isPermaLink="false">https://www.sdir.no/regelverk/rundskriv/alternativ-til-rattmerket-kartmaskin-for-lasteskip-med-storste-lenge-l-under-24-meter/</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 21. april 2017 nr. 515 om innredning, rekreasjonstilbud, kost og forpleining på skip</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/2017-04-21-515#KAPITTEL_2</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/2017-04-21-515#KAPITTEL_2</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 16. desember 2025 nr. 2652 om bygging, utrustning og tilsyn av mindre lasteskip</title>
-      <link>https://www.sdir.no/regelverk/forskriftsutlisting/bygging-utrustning-og-tilsyn-av-mindre-lasteskip/</link>
-      <guid isPermaLink="false">https://www.sdir.no/regelverk/forskriftsutlisting/bygging-utrustning-og-tilsyn-av-mindre-lasteskip/</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forskrift 1. desember 1975 nr. 5 om forebygging av sammenstøt på sjøen</title>
-      <link>https://lovdata.no/dokument/SF/forskrift/1975-12-01-5</link>
-      <guid isPermaLink="false">https://lovdata.no/dokument/SF/forskrift/1975-12-01-5</guid>
-      <pubDate>Thu, 26 Nov 2026 08:48:54 +0000</pubDate>
+      <title>Overvåking startet (2026-11-26) - Lasteskip under 8 meter</title>
+      <link>https://www.sdir.no/naringsfartoy/fartoystyper/lasteskip/lasteskip-med-storste-lengde-under-15-meter/lasteskip-under-8-meter/</link>
+      <description>&lt;p&gt;Overvåking av regelverk og brødtekst på Sjøfartsdirektoratets side er aktivert.&lt;/p&gt;&lt;p&gt;Antall overvåkede tekstlinjer/punkter: 26&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sdir.no/naringsfartoy/fartoystyper/lasteskip/lasteskip-med-storste-lengde-under-15-meter/lasteskip-under-8-meter/#95b145c385d6</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
